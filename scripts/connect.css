@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+
+*{
+	text-decoration: none;
+	list-style: none; 
+}
+
+.con {
+    background-image: url("../images/connect-b.png");
+    padding: 6% 2rem !important;
+    margin-bottom: 0;
+}
+
+#mls {
+
+	font-size: 18px;
+	letter-spacing: 1px;
+
+}
+
+
+.padding-top{
+	padding-top: 50px;
+}
+
+/*frame*/
+
+.container {
+  box-sizing: border-box;
+  border: 8px solid #d09f90;
+  position: relative;
+  width: 70%;
+  
+  margin: 0 auto;
+  font-size: 18px;
+  font-weight: 300;
+  padding: 0;
+}
+
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+   /* Fallback color */
+  background: rgba(255, 255, 255, 0.9); /* Black background with 0.5 opacity */
+  color: #244660;
+  width: 100%;
+  height: 50%;
+  padding: 2%;
+}
+
+/*frame Ends*/
+
+.con h1 {
+	text-align: center;
+	color: #fff;
+	font-size: 25px;
+	font-weight: bold;
+	letter-spacing: 5px;
+}
+
+
+.margin-top{
+	margin-top: 2%;
+}
+
+
+.mail-cont, .don-cont, .vol-cont, .mem-cont{
+
+	margin-top: 10%;
+}
+
+
+
+
+
+
+@media only screen and (min-width: 993px) {
+
+
+
+	.con h1 {
+		font-size: 40px;
+	}
+
+
+
+}

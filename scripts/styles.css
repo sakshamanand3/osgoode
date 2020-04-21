@@ -1,0 +1,1081 @@
+/*.header {
+    background-color: #1a4f4f;
+    height: 125px;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+* {
+
+    font-family: 'Poppins', sans-serif;
+    padding: 0 0;
+    margin: 0 0;
+}
+
+#text-left {
+
+    text-align: left !important; 
+}
+
+
+.vd{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+html, body {
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font-size: 1rem;
+    color:#773035;
+    margin: 0px;
+    text-align: justify;
+    
+}
+
+.clr{
+      color: #fad29d !important;
+}
+
+.center-block{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.header-logo {
+
+    /*position: relative; */
+}
+
+.header-logo2{
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.navbar-brand {
+    display: block;
+}
+
+.up-con{
+    font-weight: bold;
+    padding-top: 7%;
+    padding-bottom: 5%;
+    font-size: 24px;
+    text-align: center;
+    color: #244660;
+}
+.carousel-item{
+    min-height: 100px;
+}
+
+.header {
+    display: none;
+}
+
+
+.banner-title{
+    margin-top: -28px;
+}
+
+
+.dropdown-menu {
+    
+    background-color: #0e4141 !important;
+    
+    border: 0;
+}
+
+.dropdown-menu:hover {
+      
+    border: 0;
+}
+
+.dropdown-item{
+    color: #f9d19c !important;
+}
+
+.dropdown-item:hover {
+     background-color: #773035 !important;
+
+
+}
+.nav-item {
+    background-color: #1a4f4f;
+    padding:0 15px !important;
+}
+
+.navbar{
+    background-color: #1a4f4f !important;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.bodyfluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.nav-top{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.button {
+  background-color: #61151a;
+  border: none;
+  color: #fad29d;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* Icon*/
+
+.nav-item {
+    font-size: 22px;
+    background-color: #0e4141;
+    color:#f9d19c; 
+}
+
+.nav-link {
+    color: #f9d19c !important;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: 14px;
+}
+
+.active {
+    background-color: #6F2428 !important;
+}
+
+.nav-link:hover {
+    background-color: #6e2427;
+    color: #f9d19c !important;
+}
+
+.link {
+    color: #f9d19c;
+}
+
+.rw{
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 100px;
+}
+
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.header-logo {
+    margin-left: 40%;
+    margin-right: auto;
+    margin-top: -40px;
+    position: absolute;
+}
+
+.header-logo-visit {
+    margin-left: 80%;
+    margin-right: auto;
+    margin-top: -40px;
+    position: absolute;
+}
+
+.text {
+    color: #e5c696;
+}
+
+
+/*Community */
+/*.community {
+
+    max-width: 100%;
+    width: auto;
+    padding: 0;
+    position: absolute;
+    height: 40vh;
+}*/
+
+
+
+.ev-col{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    list-style: none;
+}
+
+.ev-col li{
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+/* CAROUSEL */
+
+
+.container-fluid {
+    margin: auto none;
+    padding: 0 0;
+}
+
+
+/*ABOUT THE MUSEUM */    
+.sect{
+    background-color: #fff7ed;
+    clear: left;
+}
+
+.no-margin{
+    margin: 0;
+}
+
+/* EVENTS HOME */
+
+.low{
+    position: absolute;
+}
+.date{
+    position: relative;
+    color: white;
+    font-size: 95px;
+    font-weight: bolder;
+    margin-bottom: -40px;
+    margin-top: -45px;
+    padding-top: 20px;
+    padding-left: 8px;
+    float: left;
+}
+
+.month{
+    clear: left;
+    position: relative;
+    color: white;
+    font-size: 45px;
+    float: left;
+    margin-bottom: 20%;
+    padding-left: 8px;
+
+}
+
+.lo{
+    clear: left;
+    text-align: left;
+    font-weight: 600;
+    padding-top: 10px;
+    font-size: 22px;
+}
+
+.card-header {
+    height: auto;
+    padding-top: 5px;
+    border-bottom-width: 0px;
+	background-color: #e6aa77;
+	font-size: 1rem;
+	text-align: center;
+}
+
+.card-header .card-link p{
+	color: #ffffff !important;
+    font-weight: 700;
+    letter-spacing: 2px;
+	margin-bottom: 0 !important;
+}
+
+.arrow-img {
+    margin-top: -10px;
+	height:30px;
+	width: 30px;
+}
+
+.card-header:active{
+        height: 120px;
+}
+
+
+
+
+.card-header:visited{
+        height: 120px;
+}
+/* Footer */
+
+
+#sm-icons a{
+    color: #fad29d;
+}
+
+.foot{ 
+    padding-top: 10px;
+    background-color: #0e4141;
+    color: #f9d19c;
+}
+
+.row.foot .col-12{
+	margin-top: 15px;
+}
+
+ .navbar{
+        background-color: #1a4f4f !important;
+    }
+    
+    .bgimg{
+    background-image: url("../images/footer-logo.png");
+    background-size: contain;
+
+    background-repeat: no-repeat;
+    background-position: center center;
+        
+}
+ 
+    /*-------ABOUT THE MUSEUM-------SA--*/
+    
+    /*.about-the-museum{
+        font-size: 2rem;
+        text-align: center;
+        padding-top: 5%;
+        margin-bottom: 5%;
+    }*/
+
+    .history {
+        height: 
+    }
+
+    .body-museum p {
+        text-align: justify;
+        padding: 6% 3% 5% 3%;
+        font-size: 15px;
+    }
+
+    .about-museum {
+        font-size: 22px;
+        text-align: center;
+        margin-bottom: 2%;
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+
+
+    .about-museum strong{
+        letter-spacing: 0.5px;
+    }
+
+    .pic{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        margin-bottom: 4%;
+        width: 70%;
+        height: auto;
+    }
+
+    .about-stry {
+        font-size: 15px;
+        text-align: justify;
+        padding-left: 2%;
+
+    }
+
+    .read-align{
+        padding: 0px 30px 70px 30px;
+        margin-top: -12%; 
+    }
+
+    
+
+
+
+/* EVENTS HOME */
+
+    .btn-lg{
+        font-size: 13px;
+        padding: 7px;
+        border: 0;
+    }
+
+    .btn-lg:hover{
+        color: #fad29d;
+        background-color: #1a4f4f;
+        border: 0;
+    }
+    
+    .btn-bg{
+        font-size: 13px;
+        padding: 7px;
+        border: 0;
+    }
+    
+    btn-bg:hover{
+        background-color: #61151a;
+        color: #fad29d;
+    }
+
+    .card-body{
+     padding-left: 10px;
+    }
+    
+ 
+
+    
+    .crd{
+        margin-bottom: 5%;
+        margin-left: 10%;
+        margin-right: 0;
+        background-color: #f9ecdc;
+        width: 20rem;
+    }
+    
+    .foot-cont{
+        margin: 0;
+        padding-top: 0;
+        padding-bottom: 10px;
+    }
+    
+    .crd-mb{
+        display: none;
+    }
+    
+    .btn-bg{
+        background-color: #61151a;
+        color: #fad29d;
+        float: left;
+    }
+    
+    .card-title{
+        color: #1a4f4f;
+    }
+    
+    .fb{
+        font-size: 30px;
+        margin-right: 3%;
+    }
+    
+    .cnt{
+        padding: 0;
+    }
+
+    .margin-none{
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+    }
+    
+     .text-center{
+    text-align: center !important;
+    } 
+
+    .contact-items li{
+        text-align: center;
+        text-decoration: none;
+        list-style: none;
+    }
+
+   #sm-icons {
+
+
+    
+
+   }
+
+
+    .visit-wrap{
+        width: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    .ex-info{
+        margin-top: -50px;
+    }
+
+
+
+
+    .ev-body{
+        list-style: none;
+    }
+
+
+
+    .sub-title {
+
+        padding-top: 50px;
+        padding-bottom: 50px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+
+
+
+@media only screen and (min-width: 200px) and (max-width: 993px) {
+        .wrap-visit{
+        display: none;
+    }
+
+    .none{
+        display: none;
+    }
+
+
+    .abt-b h2{
+        font-size: 16px;
+    }
+
+
+                    /*Mobile Visit*/
+    .ev-head {
+    font-size: 16px;
+    color: black;
+    font-weight: 500;
+}
+
+
+
+.ev-body {
+    text-align: justify;
+    display: block;
+    font-size: 14px;
+    color: black;
+}
+
+
+.lef {
+
+    text-align: center;
+    padding-top: 5%;
+    margin-top: 5%;
+    background-color: white;
+    opacity: 0.90;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 7%;
+
+}
+
+.lef hr{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 2%;
+}
+
+.rig {
+    margin-top: 5%;
+    display: block;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: white;
+    opacity: 0.97;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2.5%;
+   
+}
+
+.rig hr{
+    padding-bottom: 2%;
+}
+                     /*Mobile Ends*/
+
+
+.ev-wrap {
+
+    padding: 5% 5%;
+    background-image: url(../images/visit1.png);
+    background-size: cover;
+
+}
+
+.ev-school-wrap{
+    padding: 5% 5%;
+    background-image: url(../images/visit2.png);
+    background-size: cover;
+
+}
+
+#sv-close {
+
+    padding-top: 5%;
+    padding-bottom: 4%;
+
+}
+
+#sv-open {
+
+    padding-right: 4%;
+    padding-left: 4%;
+}
+
+
+
+
+
+}
+@media only screen and (min-width: 320px) {
+    .header-logo2{
+        display: block;
+    }
+    .navbar-brand {
+        display: block;
+    }
+    
+    .header {
+        display: none;
+    }
+    
+    .nav-item {
+        background-color: #0e4141;
+    }
+    
+    .navbar{
+        background-color: #0e4141 !important;
+    }
+    
+    .bgimg{
+    background-image: url("../images/footer-logo.png");
+    background-size: contain;
+    height: 80px;
+    background-repeat: no-repeat;
+    background-position: center center;
+        
+}
+
+    /* ABOUT THE MUSEUM */
+    
+    .about-museum{
+        font-size: 22px;
+        text-align: center;
+        margin-bottom: 2%;
+        padding-top: 6%;
+        padding-bottom: 4%;
+    }
+
+    .about-museum strong{
+        letter-spacing: 3px;
+    }
+
+    .pic{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        margin-bottom: 4%;
+    }
+    
+    .read{
+        color: #fad29d;  
+        background-color: #1a4f4f;
+    }
+    
+    .read-align{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        margin-bottom: 3.5%;
+        text-align: center;
+        margin-top: 0px;
+        
+    }
+    
+    
+    /* EVENTS HOME */
+    
+
+
+    
+    .crd{
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 5%;
+        text-align: center;
+        background-color: #f9ecdc;
+    }
+    
+    
+    .crd-mb{
+        display: none;
+    }
+    
+    .btn-bg{
+        background-color: #61151a;
+        color: #fad29d;
+        float: left;
+    }
+    
+    .card-title{
+        color: #1a4f4f;
+    }
+    
+    .fb{
+        font-size: 30px;
+        margin-right: 3%;
+    }
+    
+    .cnt{
+        padding: 0;
+    } 
+
+    .navbar-nav {
+    margin:0;
+    } 
+
+   
+
+    .text-footer{
+    text-align: center !important;
+    } 
+    .navbar-nav .nav-item{
+    padding:0 6px !important;
+    } 
+
+      .contact-items li{
+        text-align: center;
+        text-decoration: none;
+        list-style: none;
+    }
+
+    #sv-close {
+
+    padding-top: 5%;
+    padding-bottom: 4%;
+
+    }
+
+    #sv-open {
+
+    padding-right: 4%;
+    padding-left: 4%;
+    
+    }
+
+
+
+    .para{
+        padding-top: 20px;
+    }
+
+    
+}
+
+
+    
+
+@media only screen and (min-width: 800px) and (max-width: 993px) {
+
+
+    .bgimg{
+    background-image: url("../images/footer-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+     height: 150px !important;
+    width: 120px !important;
+    }
+
+    .body-museum p{
+        padding: 0px 60px 30px 50px;
+    }
+    
+    .about-museum strong{
+        margin-bottom: 7vh;
+        font-size: 30px;
+    }
+
+      .contact-items li{
+        text-align: left;
+        text-decoration: none;
+        list-style: none;
+    }
+
+    .wrap-visit{
+        display: none;
+    }
+
+    #sv-close {
+
+    padding-top: 5%;
+    padding-bottom: 4%;
+
+    }
+
+    #sv-open {
+
+    padding-right: 4%;
+    padding-left: 4%;
+    }
+
+
+
+
+
+
+}
+
+@media only screen and (min-width: 993px) {
+
+    
+
+                /*<!----------------------VISIT PAGE FOR DESKTOP---------------------->*/
+
+.ev-head {
+
+    font-size: 30px;
+    color: black;
+    padding-bottom: 2%;
+    font-weight: 500;
+}
+
+
+.ev-body {
+
+    font-size: 16px;
+    color: black;
+}
+
+
+.lef {
+
+
+    padding-top: 5%;
+    background-color: white;
+    opacity: 0.90;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 7%;
+
+
+}
+
+.rig {
+
+    
+    padding-top: 5%;
+    padding-bottom: 5%;
+   
+    margin-bottom: 5%;
+   
+    background-color: white;
+    opacity: 0.97;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2.5%;
+    margin-left: 5%; 
+   
+    
+
+}
+
+.ev-wrap {
+
+    padding: 5% 5%;
+    background-image: url(../images/visit1.png);
+    background-size: cover;
+
+}
+
+.ev-school-wrap {
+
+    padding: 5% 5%;
+    background-image: url(../images/visit2.png);
+    background-size: cover;
+
+}
+
+.grid-cont {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+
+  padding: 10px;
+}
+
+.grid-container > div {
+
+  padding: 20px 0;
+  font-size: 30px;
+}
+
+.item1 {
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+
+.item2 {
+  grid-row-start: 2;
+  grid-row-end: 4;
+}
+
+.item3 {
+  grid-row-start: 1;
+  grid-row-end: 4;
+}
+
+
+
+.item1x {
+     grid-row-start: 1;
+     grid-row-end: 2;
+}
+
+
+.item2x {
+     grid-row-start: 1;
+     grid-row-end: 2;
+}
+
+#sv-close {
+
+    padding-top: 5%;
+    padding-bottom: 4%;
+
+}
+
+#sv-open {
+
+    padding-right: 4%;
+    padding-left: 4%;
+}
+
+#ex-b {
+
+    font-size: 15px !important;
+}
+
+
+
+
+
+
+   /*<!----------------------VISIT PAGE FOR DESKTOP ENDS---------------->*/
+    .margin-bottom{
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .header{
+        display: block;
+        background-color: #1a4f4f;
+        min-height: 14%;
+        padding-bottom: 5px;
+        padding-top: 10px;
+	height:100% !important;
+    }
+  
+    .header-logo2{
+        display: none;
+    }
+    .navbar-brand {
+        display: block;
+    }
+    
+    .crd-mb
+        {
+        display: inline-block;
+        margin-bottom: 5%;
+        background-color: #f9ecdc;
+        width: 25rem;
+    }
+
+    .read-align{
+        float: left;
+    }
+    .navbar-nav {
+	margin:0 auto;
+    }
+
+
+    .about-museum{
+
+        padding-top: 80px;
+        padding-bottom: 50px;
+    }
+
+
+    .about-museum strong {
+        font-size: 32px;
+    }
+
+    .body-museum p {
+        font-size: 15px;
+    }
+
+    .btn-lg{
+	font-size: 14px;
+	padding: 7px;
+    }
+
+    .about-stry{
+        padding-top: 10px;
+    }
+    .visit-wrapper{
+        
+        background-image: url(../images/);
+        width: 70%;
+    }
+
+    
+    .card-header{
+        font-size: 1.5rem;
+        height: 100px;
+    }
+
+    .contact-items{
+        padding-left: 30%;
+
+    }
+
+    .contact-items li{
+        text-align: left;
+        text-decoration: none;
+        list-style: none;
+    }
+
+    .fb{
+        font-size: 40px;
+    }
+
+    .arrow-img {
+    height:60px;
+    width: 60px;
+}
+
+   .bgimg{
+    background-image: url("../images/footer-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+     height: 130px !important;
+    width: 100px !important;
+    padding-top: 30px;
+    }
+
+    .ev-col li{
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+
+.up-con{
+        font-size: 56px;
+}
+
+.sub-title{
+    font-size: 32px;
+}
+
+.para{
+        padding-top: 0;
+    }
+
+}
+
+.collage {
+
+    margin-left: 500px;
+}
